@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImg from "../Images/image53.png"
+
 import { Link } from "react-router-dom";
 const Index = () => {
   return(
