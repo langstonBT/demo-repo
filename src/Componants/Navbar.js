@@ -6,6 +6,7 @@ const Navbar = () => {
       <NavLink to="/"className="home-logo-link">#VANLIFE</NavLink>
       <NavLink to="/about"className="about-link">About</NavLink>
       <NavLink to="/vans"className="vans-link">Vans</NavLink>
+      <h1>hello</h1>
     </nav>
   )
 }
